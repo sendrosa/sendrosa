@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🔭 I’m currently Ph.D. candidate at the department of ECE of DUTH, in the research area “Efficient computations in Blockchain infrastructure environment”, under the advisory of Associate Prof. Pavlos Efraimidis. 
 <!--
 **sendrosa/sendrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
